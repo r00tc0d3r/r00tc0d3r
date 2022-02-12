@@ -12,9 +12,9 @@
 </p>
 
 <style>  
-a {  
-  padding: 10px
-}  
+  a {  
+    padding: 10px
+  }  
 </style>
 
 <h3 align="center">My Tech Stack</h3>
