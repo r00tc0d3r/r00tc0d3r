@@ -15,8 +15,9 @@
 background-color: #EBE7C2;
 padding: 20px;
 border-radius: 90px;
-border-color: black;
-b
+border-width: 3px;
+border-style: solid;
+border-color: cyan;
 ">
   <p align="center"> 
       <a style="
@@ -103,8 +104,11 @@ height: 120px;
 -moz-border-radius: 50%;
 -webkit-border-radius: 50%;
 border-radius: 50%;
-background: green;
+background: #EBE7C2;
 margin: auto;
-line-height: 100px" align="center">
+line-height: 100px;
+border-width: 3px;
+border-style: solid;
+border-color: cyan;" align="center">
   <a href="https://linkedin.com/in/pablo-rodrigo-gilabert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-rodrigo-gilabert" height="70" width="80" /></a>
 </p>
