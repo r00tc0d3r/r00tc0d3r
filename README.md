@@ -103,7 +103,7 @@ height: 120px;
 -moz-border-radius: 50%;
 -webkit-border-radius: 50%;
 border-radius: 50%;
-background: #EBE7C2;
+background: green;
 margin: auto;
 line-height: 100px" align="center">
   <a href="https://linkedin.com/in/pablo-rodrigo-gilabert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-rodrigo-gilabert" height="70" width="80" /></a>
