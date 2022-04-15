@@ -112,3 +112,6 @@ border-style: solid;
 border-color: cyan;" align="center">
   <a href="https://linkedin.com/in/pablo-rodrigo-gilabert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-rodrigo-gilabert" height="70" width="80" /></a>
 </p>
+
+let g:NERDTreeDirArrowExpandable = '►'
+let g:NERDTreeDirArrowCollapsible = '▼'
