@@ -114,36 +114,4 @@ border-color: cyan;" align="center">
 </p>
 
 
-" Vim Devicons
-if exists("g:loaded_webdevicons")
-  call webdevicons#refresh()
-endif
 
-" Signify
-let g:signify_sign_add = '+'
-let g:signify_sign_delete = '-'
-let g:signify_sign_change = '~'
-let g:signify_sign_show_count = 0
-let g:signify_sign_show_text = 1
-
-highlight SignifySignAdd                  ctermbg=green                guibg=#00ff00
-highlight SignifySignDelete ctermfg=black ctermbg=red    guifg=#ffffff guibg=#ff0000
-highlight SignifySignChange ctermfg=black ctermbg=yellow guifg=#000000 guibg=#ffff00
-
-" Mapeo de la barra de estado airline
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#fnamemod = ':t'
-let g:airline_powerline_fonts = 1
-let g:airline_theme="tomorrow"
-
-" Configuring the highlight devicons
-let g:NERDTreeFileExtensionHighlightFullName = 1
-let g:NERDTreeExactMatchHighlightFullName = 1
-let g:NERDTreePatternMatchHighlightFullName = 1
-
-" Prettier configuration for vim
-command! -nargs=0 Prettier :call CocAction('runCommand', 'prettier.formatFile')
-
-" Terminal split
-vnoremap <c-t> :split<CR>:terminal<CR>:resize 15<CR>
-nnoremap <c-t> :split<CR>:terminal<CR>:resize 15<CR>
