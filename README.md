@@ -1,117 +1,44 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Gilabert</h1>
-<h2 align="center">Full Stack Developer and a Future Systems Engineer</h2>
+Hi 👋 My name is Rodrigo Gilabert
+=================================
 
-<br />
+Backend Developer and a Future Systems Engineer
+-----------------------------------------------
 
-- 🔭 I’m currently working as a **Full Stack Developer**
+Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Full Stack Developer in Digital Reputation using MERN Stack and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.
 
-- 🌱 I’m want to learn **Java and Spring**
+* 🌍  I'm based in Córdoba, Argentina
+* ✉️  You can contact me at [rgilabert07@gmail.com](mailto:rgilabert07@gmail.com)
+* 🧠  I'm learning Node JS in a deeper way
+* ⚡  Coffee Lover
 
-- 📫 How to reach me **rgilabert07@gmail.com**
+<a href="https://www.github.com/r00tc0d3r" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/r00tc0d3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
 
-<br />
-<h2 align="center">My Tech Stack</h2>
-<div style="
-background-color: #EBE7C2;
-padding: 20px;
-border-radius: 90px;
-border-width: 3px;
-border-style: solid;
-border-color: cyan;
-">
-  <p align="center"> 
-      <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" padding=200px/> 
-      </a> 
-      <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
-      </a> 
-      <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
-      </a> 
-      <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> 
-      </a> 
-      <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> 
-      </a>
-
-  </p>
-  <p align="center">
-    <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
-    </a> 
-    <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> 
-    </a> 
-    <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70"/> 
-    </a> 
-    <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="70" height="70"/> 
-    </a> 
-    <a style="
-      padding-top: 10px;
-      padding-right: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> 
-    </a>
-
-  </p>
-</div>
-
-<h3 style="padding-top: 30px;"align="center">Connect with me:</h4>
-<p style="
-width: 120px;
-height: 120px;
--moz-border-radius: 50%;
--webkit-border-radius: 50%;
-border-radius: 50%;
-background: #EBE7C2;
-margin: auto;
-line-height: 100px;
-border-width: 3px;
-border-style: solid;
-border-color: cyan;" align="center">
-  <a href="https://linkedin.com/in/pablo-rodrigo-gilabert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-rodrigo-gilabert" height="70" width="80" /></a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/r00tc0d3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pablo-rodrigo-gilabert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/r00tc0d3r"><img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="r00tc0d3r's GitHub stats" /></a>
+
+<a href="http://www.github.com/r00tc0d3r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00tc0d3r&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/r00tc0d3r"><img src="https://activity-graph.herokuapp.com/graph?username=r00tc0d3r&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/r00tc0d3r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
