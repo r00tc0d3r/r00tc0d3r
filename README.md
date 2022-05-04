@@ -11,6 +11,12 @@ Advanced student of Information Systems Engineering with more than 5 years in th
 * 🧠  I'm learning Node JS in a deeper way
 * ⚡  Coffee Lover
 
+<div align="center"> 
+  <h2>
+    I'm also starting my road in <a href="https://www.codewars.com" target="_blank" rel="noreferrer">Codewars</a>
+  </h2>
+  <a href="https://github.com/r00tc0d3r" align="center"><img src="https://www.codewars.com/users/r00tc0d3r/badges/large" alt="Codewars" /></a>
+</div>
 <h2 align="center"> Linked In </h2>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/pablo-rodrigo-gilabert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="60" /></a>
@@ -37,7 +43,7 @@ Advanced student of Information Systems Engineering with more than 5 years in th
 <h2 align="center"> Badges </h3>
 
 <div align="center">
-  <div > 
+  
   <a href="https://github.com/r00tc0d3r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   </div>
   <a href="http://www.github.com/r00tc0d3r"><img src="https://activity-graph.herokuapp.com/graph?username=r00tc0d3r&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="98%" /></a>
