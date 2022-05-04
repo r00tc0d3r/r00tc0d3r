@@ -1,54 +1,67 @@
-Hi 👋 My name is Rodrigo Gilabert
-=================================
+# Hi 👋 My name is Rodrigo Gilabert
 
-Full Stack Developer and a Future Systems Engineer
------------------------------------------------
+## Backend Developer and a Future Systems Engineer
 
 Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Full Stack Developer in Digital Reputation using MERN Stack and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.
 
-* 🌍  I'm based in Córdoba, Argentina
-* ✉️  You can contact me at [rgilabert07@gmail.com](mailto:rgilabert07@gmail.com)
-* 🧠  I'm learning Node JS in a deeper way
-* ⚡  Coffee Lover
+- 🌍 I'm based in Córdoba, Argentina
+- ✉️ You can contact me at [rgilabert07@gmail.com](mailto:rgilabert07@gmail.com)
+- 🧠 I'm learning Node JS in a deeper way
+- ⚡ Coffee Lover
 
-<div align="center"> 
+<!-- CODEWARS -->
+<div align="right"> 
   <h2>
     I'm also starting my road in <a href="https://www.codewars.com" target="_blank" rel="noreferrer">Codewars</a>
   </h2>
   <a href="https://github.com/r00tc0d3r" align="center"><img src="https://www.codewars.com/users/r00tc0d3r/badges/large" alt="Codewars" /></a>
 </div>
-<h2 align="center"> Linked In </h2>
-<p align="center"> 
+
+<!-- SKILLS -->
+<h2 align="left"> Skills </h2>
+<p align="left">  
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <br />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+  </a>
+</p >
+
+<!-- LINKEDIN -->
+<h2 align="right"> Linked In </h2>
+<p align="right"> 
   <a href="https://www.linkedin.com/in/pablo-rodrigo-gilabert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="60" /></a>
 </p>
 
-<h2 align="center"> Skills </h2>
-
-<p align="center" style="background: coral;">
-  <div align="center"> 
-    <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="100" height="100" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="100" height="100" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="100" height="100" alt="CSS3" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="100" height="100" alt="React" /></a>  
-  </div>
-  <div align="center"> 
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="100" height="100" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="100" height="100" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="100" height="100" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="100" height="100" alt="MySQL" /></a>
-  </div>
-  
-</p>
-
-<h2 align="center"> Badges </h3>
-
-<div align="center">
-  
-  <a href="https://github.com/r00tc0d3r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  </div>
-  <a href="http://www.github.com/r00tc0d3r"><img src="https://activity-graph.herokuapp.com/graph?username=r00tc0d3r&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="98%" /></a>
-  <a href="http://www.github.com/r00tc0d3r"><img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="r00tc0d3r's GitHub stats" width="49%" /></a>
-  <a href="http://www.github.com/r00tc0d3r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00tc0d3r&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
+<!-- BADGES -->
+<div> 
+  <h2 align="left"> Badges </h3>
+  <!-- <div align="left"> -->
+    <a href="https://github.com/r00tc0d3r" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&&theme=blue-green" alt="Top Languages"  height="230"/>
+    </a>
+  <!-- </div> -->
+  <a href="http://www.github.com/r00tc0d3r">
+    <img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&s&theme=blue-green" alt="r00tc0d3r's GitHub stats" width="33%" />
+  </a>
+  <a href="http://www.github.com/r00tc0d3r">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r00tc0d3r&&theme=blue-green" width="33%" />
+  </a>
 </div>
-
-
