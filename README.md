@@ -53,15 +53,15 @@ Advanced student of Information Systems Engineering with more than 5 years in th
 <!-- BADGES -->
 <div> 
   <h2 align="left"> Badges </h3>
-  <!-- <div align="left"> -->
+  <a href="http://www.github.com/r00tc0d3r">
+    <img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&s&theme=blue-green" alt="r00tc0d3r's GitHub stats" width="49%" />
+  </a>
+  <a href="http://www.github.com/r00tc0d3r">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r00tc0d3r&&theme=blue-green" width="49%" />
+  </a>
+   <div align="center">
     <a href="https://github.com/r00tc0d3r" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&&theme=blue-green" alt="Top Languages"  height="230"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&&theme=blue-green" alt="Top Languages" />
     </a>
-  <!-- </div> -->
-  <a href="http://www.github.com/r00tc0d3r">
-    <img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&s&theme=blue-green" alt="r00tc0d3r's GitHub stats" width="33%" />
-  </a>
-  <a href="http://www.github.com/r00tc0d3r">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r00tc0d3r&&theme=blue-green" width="33%" />
-  </a>
+  </div>
 </div>
