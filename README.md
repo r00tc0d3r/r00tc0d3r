@@ -39,13 +39,6 @@ Advanced student of Information Systems Engineering with more than 5 years in th
   </a>
 </p >
 
-<!-- CODEWARS -->
-<div align="right"> 
-  <h2>
-    I'm also starting my road in <a href="https://www.codewars.com" target="_blank" rel="noreferrer">Codewars</a>
-  </h2>
-  <a href="https://github.com/r00tc0d3r" align="center"><img src="https://www.codewars.com/users/r00tc0d3r/badges/large" alt="Codewars" /></a>
-</div>
 
 <!-- LINKEDIN -->
 <h2 align="left"> Linked In </h2>
