@@ -2,7 +2,7 @@
 
 ## Backend Developer and a Future Systems Engineer
 
-Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Full Stack Developer in Reputación Digital using MERN Stack and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.
+Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Backend Developer in Naranja X using AWS, Node JS and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.
 
 - 🌍 I'm based in Córdoba, Argentina
 - ✉️ You can contact me at [rgilabert07@gmail.com](mailto:rgilabert07@gmail.com)
