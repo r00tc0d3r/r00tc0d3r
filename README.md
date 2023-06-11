@@ -1,63 +1,80 @@
-# Hi 👋 My name is Rodrigo Gilabert
+<h1 align="center">Hey 👋 I'm Rodrigo Gilabert</h1>
 
-## Backend Developer and a Future Systems Engineer
+###
 
-Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Backend Developer in Naranja X using AWS, Node JS and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.
+<h2 align="center">Backend Developer and a Future Systems Engineer</h2>
+<br>
 
-- 🌍 I'm based in Córdoba, Argentina
-- ✉️ You can contact me at [rgilabert07@gmail.com](mailto:rgilabert07@gmail.com)
-- 🧠 I'm learning Node JS in a deeper way
-- ⚡ Coffee Lover
+###
 
-<!-- SKILLS -->
-<h2 align="left"> Skills </h2>
-<p align="left">  
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010" alt="Ubuntu" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="Javascript" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="NodeJS" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010" alt="VS Code" />
-  </a>
-  <br />
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&Color=white&labelColor=101010" alt="Express" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="MySQL" />
-  </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" alt="GIT" />
-  </a>
-</p >
+<h2 align="center">About me</h2>
 
+###
 
-<!-- LINKEDIN -->
-<h2 align="left"> Linked In </h2>
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/pablo-rodrigo-gilabert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="60" /></a>
-</p>
+<p align="center">Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Backend Developer in Naranja X using AWS, Node JS and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.<br><br>🌍 I'm based in Córdoba, Argentina<br>✉️ You can contact me at rgilabert07@gmail.com<br>🧠 I'm learning Node JS in a deeper way<br>⚡ Coffee Lover</p>
+<br>
 
-<!-- BADGES -->
-<div> 
-  <h2 align="right"> Badges </h3>
-  <a href="http://www.github.com/r00tc0d3r">
-    <img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&s&theme=blue-green" alt="r00tc0d3r's GitHub stats" width="49%" />
-  </a>
-  <a href="http://www.github.com/r00tc0d3r">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r00tc0d3r&&theme=blue-green" width="49%" />
-  </a>
-   <div align="center">
-    <a href="https://github.com/r00tc0d3r" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tc0d3r&langs_count=10&&theme=blue-green" alt="Top Languages" />
-    </a>
-  </div>
+###
+
+<h2 align="center">My Skills</h2>
+<br>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="80" alt="amazonwebservices logo"  />
+
+###
+
 </div>
+<br>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="80" alt="jest logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="80" alt="express logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
+</div>
+<br>
+
+###
+
+<h2 align="center">Linked In</h2>
+<br>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pablo-rodrigo-gilabert/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+<br>
+
+###
+
+<h2 align="center">Badges</h2>
+<br>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r00tc0d3r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00tc0d3r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
