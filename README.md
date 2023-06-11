@@ -3,7 +3,6 @@
 ###
 
 <h2 align="center">Backend Developer and a Future Systems Engineer</h2>
-<br>
 
 ###
 
@@ -29,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="80" alt="amazonwebservices logo"  />
 
 ###
@@ -54,7 +54,6 @@
 ###
 
 <h2 align="center">Linked In</h2>
-<br>
 
 ###
 
