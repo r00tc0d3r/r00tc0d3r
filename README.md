@@ -10,7 +10,17 @@
 
 ###
 
-<p align="center">Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Backend Developer in Naranja X using AWS, Node JS and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.<br><br>🌍 I'm based in Córdoba, Argentina<br>✉️ You can contact me at rgilabert07@gmail.com<br>🧠 I'm learning Node JS in a deeper way<br>⚡ Coffee Lover</p>
+<p align="center">
+  Advanced student of Information Systems Engineering with more than 5 years in the IT field. I am currently working as a Backend Developer in Naranja X using AWS, Node JS and SCRUM methodology. I am a self-taught and curious person capable of executing any task assigned to me. I feel comfortable working as a team and I create spaces for exchange where we can all grow and enjoy.
+  <br><br>
+  🌍 I'm based in Córdoba, Argentina
+  <br>
+  ✉️ You can contact me at rgilabert07@gmail.com
+  <br>
+  🧠 I'm learning Typescript in a deeper way
+  <br>
+  ⚡ Coffee Lover
+</p>
 <br>
 
 ###
