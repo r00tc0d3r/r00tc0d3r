@@ -29,7 +29,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="80" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+  
 
 ###
 
